@@ -10,14 +10,7 @@ TensorTonic is a platform where you can implement core algorithms of Machine Lea
 
 This repository contains my personal solutions to these problems, automatically synchronized from the platform.
 
-<!-- tensortonic:start -->
-# Agglo- Meration's TensorTonic Solutions
 
-Verified machine learning implementations completed on [TensorTonic](https://www.tensortonic.com).
-
-<p align="center">
-  <img src="https://www.tensortonic.com/api/badge/bbkdkl.svg" alt="TensorTonic Verified Solutions" width="100%" />
-</p>
 
 | Problem | Description | Link |
 |---|---|---|
